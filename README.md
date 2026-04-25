@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para apresentar minha trajetória profissional, habilidades técnicas e os principais projetos que desenvolvi ao longo da minha carreira e graduação.
 
-![Preview do Portfólio](https://via.placeholder.com/1200x600/1f2937/3b82f6?text=Coloque+um+print+do+seu+site+aqui)
+[Visualização do portifólio](https://leandroportifolio.vercel.app/)
 
 ## 🚀 Tecnologias Utilizadas
 

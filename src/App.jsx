@@ -192,9 +192,9 @@ function App() {
                 <p className="text-sm text-gray-500">Concluído em 12/2023</p>
               </div>
               <div className="bg-gray-900 p-5 rounded-xl border border-gray-800 mb-10 mt-10">
-                <h4 className="font-bold text-gray-100">Montagem e Manutenção de Computadores e Redes</h4>
+                <h4 className="font-bold text-gray-100">Montagem e Edição de videos e imagem</h4>
                 <p className="text-sm text-gray-400 mb-1">Centro de desenvolvimento Social e Produtivo CEDESP Santa Luzia • São Paulo - SP</p>
-                <p className="text-sm text-gray-500">Concluído em 12/2020</p>
+                <p className="text-sm text-gray-500">Concluído em 12/2021</p>
               </div>
                 <div className="bg-gray-900 p-5 rounded-xl border border-gray-800 mb-10">
                 <h4 className="font-bold text-gray-100">Montagem e Manutenção de Computadores e Redes</h4>
